@@ -34,6 +34,6 @@ end
 
 #BUST-A-MOVE
 def bust_a_move
-  puts "be cool"
+  puts "Be cool and be snazzy"
   puts "be snazzy!"
 end
