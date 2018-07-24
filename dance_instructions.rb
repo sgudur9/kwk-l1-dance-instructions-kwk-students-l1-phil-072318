@@ -27,7 +27,7 @@ def bob_the_reins
 end
 
 def lasso
-  puts "start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left"
+  puts "Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left"
   puts "lift right arm up and point right elbow diagonally to the right"
   puts "raise right forearm so that it points straight up, and whip it in small circles to the beat of the song, as if you were a cowboy holding a rope lasso. This movement is repeated eight times as well"
 end
