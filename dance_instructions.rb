@@ -15,7 +15,7 @@ end
 def skip_step(starting_foot)
   puts "Lower #{starting_foot} foot to the ground"
   puts "Bounce #{starting_foot} foot back up slightly, kicking it a few inches back"
-  puts "Briefly"
+  puts "Briefly raise "
 end
 
 
