@@ -12,17 +12,12 @@ def base_footwork
 end
 
 #SKIP-STEP
-def skip_step_left
-  puts "Lower left foot to the ground"
-  puts "Bounce left foot back up slightly, kicking it a few inches back"
+def skip_step(starting_foot)
+  puts "Lower #{starting_foot} foot to the ground"
+  puts "Bounce #{starting_foot} foot back up slightly, kicking it a few inches back"
   puts "Left, Right, Left and Left"
 end
 
-def skip_step_right
-  puts "Lower right foot to the ground"
-  puts "Bounce right back up slightly, kicking it a few inches back"
-  puts "Right, Left, Right and Right"
-end
 
 #UPPER-BODY
 def bob_the_reins
