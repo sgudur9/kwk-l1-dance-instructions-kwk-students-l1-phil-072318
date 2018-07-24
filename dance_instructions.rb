@@ -21,3 +21,6 @@ def skip_step_right
   puts "Bounce right back up slightly, kicking it a few inches back"
   puts "Right, Left, Right and Right"
 end
+skip_step_right
+
+def
